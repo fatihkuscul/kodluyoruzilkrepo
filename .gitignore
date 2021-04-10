@@ -1,8 +1,15 @@
+# IDE - VDCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
 # video
-.mp4
-.mkv
+*.mp4
+*.mkv
 
 #görseller
-.jpg
-.jpeg
-.png
+*.jpg
+*.jpeg
+*.png
